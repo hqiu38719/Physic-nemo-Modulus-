@@ -58,6 +58,3 @@ Modulus需要的環境必須在Linux中，Pypi上的套件都無法使用(或者
 因為WSL預設是裝在系統碟，如果容量不夠想要把WSL裝在電腦中其他硬碟，可以參考[WSL轉移教學][2]
 
 [2]: https://medium.com/@inkfan130924783/%E5%B0%87wsl2-%E7%B3%BB%E7%B5%B1%E8%B3%87%E6%96%99%E5%A4%BE%E7%A7%BB%E8%87%B3%E5%8F%A6%E4%B8%80%E9%A1%86%E7%A1%AC%E7%A2%9F-6f0c383d7a0c
-
-# Physic-nemo-Modulus-
-教學如何建置Modulus所需環境
